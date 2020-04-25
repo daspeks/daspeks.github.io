@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"Cuy+":function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),r=n.n(t),l=n("Bl7J"),c=n("hIod"),o=n("ZPPm"),m=n.n(o);a.default=function(){return r.a.createElement(l.a,null,r.a.createElement(c.a,{title:"Contact"}),r.a.createElement("div",{className:m.a.heading}," Contact me! "),r.a.createElement("p",null,"Find me on ",r.a.createElement("a",{href:"https://instagram.com/daspeks/",target:"_blank",rel:"noopener noreferrer"},"Instagram")))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-2b50307e82d5b9a2f524.js.map

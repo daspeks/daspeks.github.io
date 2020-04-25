@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{F2CN:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),o=t.n(a),r=t("Bl7J"),s=t("hIod");n.default=function(){return o.a.createElement(r.a,null,o.a.createElement(s.a,{title:"Resume of Parth Das"}),"Coming soon...")}}}]);
+//# sourceMappingURL=component---src-pages-resume-js-307c9fedf13f48ee3d33.js.map
